@@ -1,0 +1,5 @@
+20230804	12:49:34	b02eac16-568b-4272-9681-f222a11fbe95	Error: Not allowed by cors
+20230804	12:49:42	ba4f1885-f40c-4d14-b907-550a09234334	Error: Not allowed by cors
+20230810	18:43:58	5a474066-b3ea-4078-943d-2b818bc2c663	ReferenceError: jwy is not defined
+20230810	18:44:06	1d27ef66-2156-41c4-8418-5494d08f4d05	ReferenceError: jwy is not defined
+20230810	18:44:09	79ba99d4-846c-40d3-a77a-dc05ea5611bc	ReferenceError: jwy is not defined
